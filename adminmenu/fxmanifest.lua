@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 games { 'gta5' }
-author 'Trase#0001'
-description 'FiveM Staff Menu'
+author 'JohnKsm'
+description 'FiveM Admin Menu System'
 version '1.0.1'
 lua54 'yes'
 ui_page 'html/index.html'
