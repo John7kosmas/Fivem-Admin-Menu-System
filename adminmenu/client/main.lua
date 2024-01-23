@@ -121,7 +121,7 @@ local defaultStyle = {
 
 CreateThread(function()
 	local runtime = CreateRuntimeTxd("AdminMenu")
-	local image = CreateDui("https://cdn.discordapp.com/attachments/910445657611972628/967488587597746176/spookythor.png", 400, 90)
+	local image = CreateDui("PUT YOUR IMAGE LINK HERE", 400, 90)
 	local dui = GetDuiHandle(image)
 	local texture = CreateRuntimeTextureFromDuiHandle(runtime, "admin_menu", dui)
 end)
