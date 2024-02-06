@@ -1,1 +1,1 @@
-A Free Fivem esx Admin Premium Menu.
+Just a free admin menu (esx framework)
